@@ -4,5 +4,4 @@ public class Teste {
 	int teste3;
 	int belaFoto;
 }
-
-//
+//:)
